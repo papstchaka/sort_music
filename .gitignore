@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# custom .gitignores avoiding to push private API_KEY
+api_key.txt
