@@ -17,9 +17,9 @@ Supported file formats are:
 
 ## Requirements
 
-### Account at [`rapidAPI`](https://rapidapi.com/)
+### Account at <a href="https://rapidapi.com/" target="_blank">`rapidAPI`</a>
 
-    Follow [`this tutorial`](https://rapidapi.com/blog/shazam-api-java-python-php-ruby-javascript-examples/) to get an account at `rapidAPI`, afterwards sign a free trail for the `shazam` API.
+> Follow [`this tutorial`](https://rapidapi.com/blog/shazam-api-java-python-php-ruby-javascript-examples/) to get an account at `rapidAPI`, afterwards sign a free trail for the `shazam` API
 
 ### Apt packages
 
