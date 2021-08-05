@@ -1,6 +1,6 @@
 # sort_music
 
-Repository implements a script to detect an audio file using [`Shazam API`](https://rapidapi.com/apidojo/api/shazam/) to identify songs and to change the properties of given file respectively -> e.g. artist, songname, album, year, etc.
+Repository implements a script to detect an audio file using <a href="https://rapidapi.com/apidojo/api/shazam/" target="_blank">`Shazam API`</a> to identify songs and to change the properties of given file respectively -> e.g. artist, songname, album, year, etc.
 
 This script currently only works under linux - NO WINDOWS SUPPORT!
 
@@ -19,7 +19,7 @@ Supported file formats are:
 
 ### Account at <a href="https://rapidapi.com/" target="_blank">`rapidAPI`</a>
 
-> Follow [`this tutorial`](https://rapidapi.com/blog/shazam-api-java-python-php-ruby-javascript-examples/) to get an account at `rapidAPI`, afterwards sign a free trail for the `shazam` API
+> Follow <a href="https://rapidapi.com/blog/shazam-api-java-python-php-ruby-javascript-examples/" target="_blank">`this tutorial`</a> to get an account at `rapidAPI`, afterwards sign a free trail for the `shazam` API
 
 ### Apt packages
 
