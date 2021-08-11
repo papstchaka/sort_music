@@ -11,6 +11,10 @@ Supported file formats are:
 - `.wva`
 - `.mp4`
 
+<h2 align="center">
+    <img src="pipeline.png" alt="Sort Music's pipeline" width="800px" />
+</h2>
+
 <br></br>
 
 ---
